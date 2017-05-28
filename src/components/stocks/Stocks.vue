@@ -1,3 +1,3 @@
 <template>
-  <h1>Stocks - Stocks Copmonent</h1>
+  <h1>Stocks - Stocks Component</h1>
 </template>
