@@ -7,6 +7,10 @@ import store from './store/store';
 
 Vue.use(VueRouter);
 
+Vue.filter('currency', (input) => {
+  return `$ ${input.toLocaleString()}`;
+});
+
 const router = new VueRouter({
   mode: 'history',
   routes,
