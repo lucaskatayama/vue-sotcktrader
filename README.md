@@ -1,6 +1,6 @@
-# vue-stocktrader
+# Stock Trader
 
-> A Vue.js project
+> Project from [VueJS 2 Udemy Course](https://www.udemy.com/vuejs-2-the-complete-guide)
 
 ## Build Setup
 
