@@ -1,6 +1,10 @@
 <template>
   <div>
-    <app-stock v-for="stock in stocks"></app-stock>
+    <app-stock
+      v-for="stock in stocks"
+      :key="stock.key"
+      :stock="stock">
+    </app-stock>
   </div>
 </template>
 
