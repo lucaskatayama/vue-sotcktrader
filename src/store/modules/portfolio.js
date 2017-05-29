@@ -28,7 +28,7 @@ const mutations = {
   },
   'SET_PORTFOLIO' (state, portfolio) {
     state.funds = portfolio.funds;
-    state.stocks = portfolio.stocksPortfolio ? portfolio.stockPortfolio : [];
+    state.stocks = portfolio.stockPortfolio ? portfolio.stockPortfolio : [];
   },
 };
 
