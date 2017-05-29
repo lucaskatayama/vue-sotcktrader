@@ -2,6 +2,8 @@
 
 Project from [VueJS 2 Udemy Course](https://www.udemy.com/vuejs-2-the-complete-guide)
 
+Check the [DEMO here](http://github.lucaskatayama.com/vue-stocktrader/).
+
 ## Build Setup
 
 ``` bash
